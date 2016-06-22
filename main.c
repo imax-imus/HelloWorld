@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello Sleeper!");
+	printf("Hello Sleepers!");
 	return 0;
 }
